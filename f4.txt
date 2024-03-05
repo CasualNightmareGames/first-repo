@@ -1,0 +1,1 @@
+I set up gitbash to use Code for commit messages. Let's test it out.
